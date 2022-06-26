@@ -11,10 +11,14 @@ public class Sample {
 
 		System.out.println("sample two");
 	}
-	
-	private void sampleFour() {
-		
-		System.out.println("sample four");
+
+	private void sampleThree() {
+
+		System.out.println("sample three");
 	}
 
+	private void sampleFour() {
+
+		System.out.println("sample four");
+	}
 }
