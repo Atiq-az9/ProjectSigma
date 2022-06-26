@@ -16,5 +16,10 @@ public class Sample {
 		
 		System.out.println("sample three");
 	}
+	
+	private void sampleFour() {
+
+		System.out.println("sample four is modified");
+	}
 
 }
